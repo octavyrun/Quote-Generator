@@ -1,0 +1,28 @@
+{
+    "quotes":[
+       {
+          "title":"Citat-1",
+          "msg":"Nu te preocupa esti frumos / frumoasa !"
+       },
+       {
+          "title":"Citat-2",
+          "msg":"Suntem la fel ca praful de stele"
+       },
+       {
+          "title":"Citat-3",
+          "msg":"Lasa-ma sa cred in tine cat pot de tare !"
+       },
+       {
+         "title":"Citat-3",
+         "msg":"Priveste cerul !"
+       },
+       {
+         "title":"Citat-3",
+         "msg":"Fug de tine. Lupt cu mine !"
+       },
+       {
+         "title":"Citat-3",
+         "msg":"Vreau sa iti fiu sentiment, fior, apoi fantezie !"
+       }
+    ]
+ }
